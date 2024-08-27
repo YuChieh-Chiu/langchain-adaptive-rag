@@ -4,7 +4,7 @@
 
 ## Use Cases
 ### - Vector Search Demo
-<img width="400" src="./readme_source/vector-search-demo.png">
+<img width="400" src="./readme_source/vectore-search-demo.png">
 
 ### - Function Calling Demo
 <img width="400" src="./readme_source/function-calling-demo.png">
