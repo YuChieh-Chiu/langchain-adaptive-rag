@@ -2,8 +2,15 @@
 
 > **Ask any questions related to `TSMC's 2024 Q2 financial report` or `the latest Taiwan stock market information` !**
 
-## Chat Example
-<img width="400" src="./readme_sources/Langchain-pandas-agent-demo.png">
+## Use Cases
+### - Vector Search Demo
+<img width="400" src="./readme_source/vector-search-demo.png">
+
+### - Function Calling Demo
+<img width="400" src="./readme_source/function-calling-demo.png">
+
+### - Refuse to Answer Demo
+<img width="400" src="./readme_source/refuse-to-answer-demo.png">
 
 ## Project Overview
 > [!IMPORTANT]
@@ -17,7 +24,7 @@
 > - Large Language Model Application Framework: **LangChain**
 > - Controllable Agentic Workflows Framework: **LangGraph**
 > - RAG Flow:
->   ![image.png](attachment:37b4ac25-703f-4c20-b4a2-40ae1436bc68.png)
+>   <img width="400" src="./readme_source/adaptive_rag_workflow.png">
 
 > > This **Langchain Adaptive RAG** allows users to ask any questions related to `TSMC's 2024 Q2 financial report` or `the latest Taiwan stock market information` in Traditional Chinese. If users ask questions not related to `TSMC's 2024 Q2 financial report` or `the latest Taiwan stock market information`, this **Langchain Adaptive RAG** would refuse to answer question.
 
