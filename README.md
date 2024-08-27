@@ -24,7 +24,7 @@
 > - Large Language Model Application Framework: **LangChain**
 > - Controllable Agentic Workflows Framework: **LangGraph**
 > - RAG Flow:
->   <img width="400" src="./readme_source/adaptive_rag_workflow.png">
+> - <img width="400" src="./readme_source/adaptive_rag_workflow.png">
 
 > > This **Langchain Adaptive RAG** allows users to ask any questions related to `TSMC's 2024 Q2 financial report` or `the latest Taiwan stock market information` in Traditional Chinese. If users ask questions not related to `TSMC's 2024 Q2 financial report` or `the latest Taiwan stock market information`, this **Langchain Adaptive RAG** would refuse to answer question.
 
